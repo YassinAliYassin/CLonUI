@@ -1,0 +1,675 @@
+<p align="center">
+  <img src="../../resources/clonui-banner-1.png" alt="CLonUI - Cowork with AI Agents" width="100%">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/v/release/SolidAI/CLonUI?style=flat-square&color=32CD32" alt="Version">
+  &nbsp;
+  <img src="https://img.shields.io/badge/license-Apache--2.0-32CD32?style=flat-square&logo=apache&logoColor=white" alt="License">
+  &nbsp;
+  <img src="https://img.shields.io/badge/platform-macOS%20%7C%20Windows%20%7C%20Linux-6C757D?style=flat-square&logo=linux&logoColor=white" alt="Platform">
+</p>
+
+<p align="center">
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <strong>AI Agents ile ücretsiz, açık kaynaklı Cowork uygulaması</strong><br>
+  <em>Yerleşik Agent | Sıfır Kurulum | Herhangi bir API Anahtarı | Çoklu Agent | Uzaktan Erişim | Çapraz Platform | 7/24 Otomasyon</em>
+</p>
+
+<p align="center">
+  <a href="https://github.com/SolidAI/CLonUI/releases">
+    <img src="https://img.shields.io/badge/⬇️%20Şimdi%20İndir-En%20Son%20Sürüm-32CD32?style=for-the-badge&logo=github&logoColor=white" alt="En Son Sürümü İndir" height="50">
+  </a>
+</p>
+
+<p align="center">
+  <a href="../../readme.md">English</a> | <a href="./readme_ch.md">简体中文</a> | <a href="./readme_tw.md">繁體中文</a> | <a href="./readme_jp.md">日本語</a> | <a href="./readme_ko.md">한국어</a> | <a href="./readme_es.md">Español</a> | <a href="./readme_pt.md">Português</a> | <strong>Türkçe</strong> | <a href="./readme_ru.md">Русский</a> | <a href="./readme_uk.md">Українська</a> | <a href="https://github.com/SolidAI/CLonUI" target="_blank">Resmi Web Sitesi</a>
+</p>
+
+<p align="center">
+</p>
+
+---
+
+<p align="center">
+  <a href="https://x.com/CLonUI/status/2079493379914961069">
+    <img src="../../resources/kimi/contributor-bonus-black-blue.jpg" alt="CLonUI × Kimi Katkıda Bulunan Bonusu" width="600">
+  </a>
+</p>
+
+<p align="center">
+</p>
+
+<h3 align="center">
+  <a href="https://x.com/CLonUI/status/2079493379914961069">Kampanya detaylarını ve talep yöntemini görün →</a>
+</h3>
+
+<p align="center">
+</p>
+
+---
+
+## 📋 Hızlı Gezinme
+
+<p align="center">
+
+[✨ Cowork Eylemde](#-cowork-eylemde) ·
+[🤔 Neden CLonUI'yi Seçmelisiniz?](#-neden-clonui-claude-cowork-yerine) ·
+[🚀 Hızlı Başlangıç](#-hızlı-başlangıç) ·
+[💬 Topluluk](#-topluluk-ve-destek)
+
+</p>
+
+---
+
+## Cowork — Sizinle Çalışan AI Agents
+
+**CLonUI sadece bir sohbet istemcisi değil.** AI Agents'ın bilgisayarınızda sizinle çalıştığı bir Cowork platformudur — dosya okuma, kod yazma, web'de gezinme ve görevleri otomatikleştirme. Agent'ın yaptığı her şeyi görürsünüz ve her zaman kontrol sizdedir.
+
+|                                        | Geleneksel AI Sohbet İstemcileri | **CLonUI (Cowork)**                                                                                                             |
+| :------------------------------------- | :------------------------------- | :------------------------------------------------------------------------------------------------------------------------------ |
+| AI dosyalarınızda işlem yapabilir      | Sınırlı veya Yok                 | **Evet — tam dosya erişimi ile yerleşik Agent**                                                                                 |
+| AI çok adımlı görevleri çalıştırabilir | Sınırlı                          | **Evet — onayınızla özerk**                                                                                                     |
+| Telefondan uzaktan erişim              | Nadiren                          | **WebUI + Telegram / Lark / DingTalk**                                                                                          |
+| Zamanlanmış otomasyon                  | Hayır                            | **Cron — 7/24 gözetimsiz**                                                                                                      |
+| Aynı anda birden fazla AI Agent        | Hayır                            | **Claude Code, Codex, Qwen Code, Hermes Agent, Snow CLI, Cursor Agent ve 13+ daha fazla — otomatik algılanan, birleşik arayüz** |
+| Fiyat                                  | Ücretsiz / Ücretli               | **Ücretsiz ve Açık Kaynak**                                                                                                     |
+
+<p align="center">
+  <img src="../../resources/offica-ai BANNER-function.png" alt="CLonUI Cowork Platform" width="800">
+</p>
+
+---
+
+## Yerleşik Agent — Kur ve Kullan, Sıfır Yapılandırma
+
+CLonUI tam bir AI Agent motoru ile birlikte gelir. CLI Agent'ları ayrı olarak kurmanızı gerektiren araçların aksine, **CLonUI kurduğunuz anda çalışır**.
+
+- **Kurulacak CLI araçları yok** — Agent motoru yerleşiktir
+- **Karmaşık kurulum yok** — başlamak için herhangi bir API anahtarı yapıştırın
+- **Tam Agent yetenekleri** — dosya okuma/yazma, web arama, görüntü oluşturma, MCP araçları
+- **Kullanıma hazır asistanlar** — 21 yerleşik profesyonel asistan (Cowork, PPT Creator, Morph PPT, Morph PPT 3D, Word Creator, Word Form Creator, Excel Creator, Pitch Deck Creator, Dashboard Creator, Academic Paper Writer, Financial Model Creator ve daha fazlası) hemen kullanıma hazır
+
+<p align="center">
+  <img src="../../resources/homepage.png" alt="Built-in Agents" width="800">
+</p>
+
+---
+
+## Çoklu Agent Modu — Zaten CLI Agent'larınız var mı? Getirin
+
+Zaten Claude Code, Codex, Hermes Agent veya OpenClaw kullanıyorsanız, CLonUI bunları otomatik olarak algılar ve hepsiyle Cowork yapmanıza izin verir — yerleşik Agent ile birlikte.
+
+**Desteklenen Agents:** Yerleşik Agent (sıfır kurulum) • Claude Code • Codex • Qwen Code • Goose AI • OpenClaw • Augment Code • CodeBuddy • Kimi CLI • OpenCode • Factory Droid • GitHub Copilot • Qoder CLI • Mistral Vibe • Nanobot • Clown CLI (clonrs, CLonUI ile birlikte dağıtılan Rust tabanlı arka uç servisi) • Snow CLI • Hermes Agent • Cursor Agent ve daha fazlası
+
+<p align="center">
+  <img src="../../resources/multi-agent支持openclaw.gif" alt="Multi-Agent Cowork" width="800">
+</p>
+
+- **Otomatik Algılama** — kurulu CLI araçlarını otomatik olarak tanır
+- **Birleşik Arayüz** — tüm AI Agent'larınız için tek bir Cowork platformu
+- **Paralel Oturumlar** — bağımsız bağlam ile birden fazla Agent'ı aynı anda çalıştırın
+- **MCP Birleşik Yönetimi** — MCP (Model Context Protocol) araçlarını bir kez yapılandırın, tüm Agent'lara otomatik olarak senkronize edilir — her Agent'ı ayrı ayrı yapılandırmanıza gerek yok
+- **YOLO Mode** (tüm Agent eylemlerini manuel onay olmadan otomatik onayla) / **Tam Otomatik Mod** — tek tıkla izin istemlerini atlayın; tüm Agent'lar gözetimsiz çalıştırma için tam otomatik modu destekler
+
+### Team Mode — Koordineli Çoklu Agent İşbirliği
+
+Birden fazla AI Agent'ı organize bir ekip olarak çalıştırın: bir **Leader** Agent talimatlarınızı alır, bunları alt görevlere böler ve yerleşik Team MCP Server aracılığıyla **Teammate** Agent'lara devreder. Teammate'ler paralel olarak çalışır, asenkron posta kutusu üzerinden sonuçları paylaşır ve paylaşılan görev panosuna yazar.
+
+<p align="center">
+  <img src="../../resources/CLonUI_team.gif" alt="Team Mode overview" width="800">
+</p>
+
+- **Paralel çoklu agent çalıştırma** — Leader görevleri alt görevlere bölerek paralel çalışan Teammate Agent'lara devreder; her Teammate ACP (Agent Communication Protocol, CLonUI'nin çoklu agent koordinasyon katmanı), Gemini veya CLonrs aracılığıyla kendi modelini kullanır
+- **Leader orkestrasyonu** — Leader atar, izler ve sonuçları toplar; desteklenen arka uçlar: Claude Code, Codex, Hermes Agent, Gemini, Snow CLI ve Clown CLI
+- **Ekip izole çalışma alanı** — tüm Agent'lar aynı klasörü paylaşır; her birinin bekleyen onaylar için kenar çubuğu rozeti ile kendi izin onay iletişim kutusu vardır
+
+<details>
+<summary><strong>🔍 Team Mode Detaylarını Görüntüle ▶️</strong></summary>
+
+<br>
+
+- **Paylaşılan çalışma alanı** — tüm Agent'lar aynı klasörü okur/yazar; dosya paneli süreç boyunca görünür kalır
+- **Desteklenen arka uçlar** — Claude Code, Codex, Gemini, Snow CLI, Clown CLI (clonrs); `mcpCapabilities.stdio` ile diğer ACP arka uçları otomatik desteklenir
+- **Dinamik ölçeklendirme** — ekip çalışırken Teammate ekleyip kaldırabilirsiniz; sessiz Agent'lar otomatik olarak başarısız durumuna yükseltilir ve tek tıkla kaldırılabilir
+- **Ayrıntılı izinler** — her Agent'ın kendi izin onay iletişim kutusu var; kenar çubuğu rozeti bekleyen onayları gösterir
+- **Dosya paylaşımı** — Leader, Teammate'lere dosya eklerini iletebilir
+
+</details>
+
+---
+
+## Herhangi bir API Anahtarı, Tam Cowork Agent Gücü
+
+Diğer AI uygulamaları size API anahtarınızla bir sohbet kutusu verir. **CLonUI size tam bir Cowork Agent verir.**
+
+| API Anahtarınız            | Ne Alırsınız                 |
+| :------------------------- | :--------------------------- |
+| Gemini API Anahtarı        | Gemini destekli Cowork Agent |
+| OpenAI API Anahtarı        | GPT destekli Cowork Agent    |
+| Anthropic API Anahtarı     | Claude destekli Cowork Agent |
+| Ollama / LM Studio (yerel) | Yerel model Cowork Agent     |
+| NewAPI Gateway             | 20+ modele birleşik erişim   |
+
+Aynı Agent yetenekleri — dosya okuma/yazma, web arama, görüntü oluşturma, araç kullanımı — hangi modelin güç verdiğine bakılmaksızın. CLonUI bulut hizmetleri ve yerel dağıtımlar dahil **30+ AI platformunu** destekler.
+
+<p align="center">
+  <img src="../../resources/llm_newapi.png" alt="Multi-Model Support" width="800">
+</p>
+
+<details>
+<summary><strong>🔍 Desteklenen 30+ Platformun Tümünü Görüntüle ▶️</strong></summary>
+
+<br>
+
+**Kapsamlı Platform Desteği:**
+
+- **Resmi Platformlar** — Gemini, Gemini (Vertex AI), Anthropic (Claude), OpenAI
+- **Bulut Sağlayıcıları** — AWS Bedrock, New API (birleşik AI model ağ geçidi)
+- **Çin Platformları** — Dashscope (Qwen), Dashscope Coding Plan, Zhipu, Moonshot (Kimi), Qianfan (Baidu), Hunyuan (Tencent), Lingyi, ModelScope, InfiniAI, Ctyun, StepFun, SiliconFlow-CN, PPIO
+- **Uluslararası Platformlar** — DeepSeek, MiniMax, Novita, OpenRouter, SiliconFlow, xAI, Ark (Volcengine), Poe
+- **Yerel Modeller** — Ollama, LM Studio (yerel API uç noktası ile özel platform aracılığıyla)
+
+CLonUI ayrıca [NewAPI](https://github.com/QuantumNous/new-api) ağ geçidi hizmetini destekler — çeşitli LLM'leri toplayan ve dağıtan birleşik bir AI model merkezi. Çeşitli görev gereksinimlerini karşılamak için aynı arayüzde farklı modeller arasında esnek bir şekilde geçiş yapın.
+
+</details>
+
+---
+
+## Genişletilebilir Asistanlar ve Beceriler
+
+_21 yerleşik profesyonel asistan ve üç katmanlı beceri sistemi ile genişletilebilir asistan sistemi. Kendi asistanlarınızı ve becerilerinizi oluşturun ve yönetin._
+
+- **Özel Asistanlar Oluştur** — Özel kurallar ve yeteneklerle kendi asistanlarınızı tanımlayın
+- **Üç katmanlı Beceriler** — Yerleşik beceriler (CLonUI ile birlikte gelen), özel beceriler (kendinizinkiler) ve Extension becerileri (üçüncü taraf uzantılar tarafından katkıda bulunulan); beceri göstergesi ile konuşma başına etkinleştirin/devre dışı bırakın
+- **Konuşma Başına Kontrol** — Sohbet başlığındaki beceri göstergesi aktif becerileri gösterir; ihtiyaç halinde becerileri arayın ve hariç tutun
+
+<p align="center">
+  <img src="../../resources/assitants.png" alt="AI Assistants & Skills Ecosystem" width="800">
+</p>
+
+<details>
+<summary><strong>🔍 Asistan Detaylarını ve Özel Becerileri Görüntüle ▶️</strong></summary>
+
+<br>
+
+CLonUI önceden tanımlanmış yeteneklere sahip **21 profesyonel asistan** içerir, özel beceriler aracılığıyla genişletilebilir:
+
+- **🤝 Cowork** — Özerk görev yürütme (dosya işlemleri, belge işleme, iş akışı planlama)
+- **📊 PPT Creator / Morph PPT / Morph PPT 3D** — Morph geçişleri ile PPTX sunumları oluşturur ve canlandırır
+- **📐 Pitch Deck Creator** — Yatırımcıya hazır sunum destesi oluşturma
+- **📊 Dashboard Creator** — Veri panosu oluşturma
+- **📝 Word Creator** — Üretime hazır Word (`.docx`) belge oluşturma
+- **📋 Word Form Creator** — Yapılandırılmış Word formu / sözleşme şablonu oluşturma
+- **📗 Excel Creator** — Analiz, grafikler ve otomatik biçimlendirme ile elektronik tablo oluşturma
+- **🎓 Academic Paper Writer** — Yapılandırılmış akademik makale yazımı
+- **💰 Financial Model Creator** — Finansal modeller ve projeksiyonlar
+- **🎮 3D Oyun** — Tek dosya 3D oyun oluşturma
+- **🎨 UI/UX Pro Max** — Profesyonel UI/UX tasarımı (57 stil, 95 renk paleti)
+- **📋 Dosyalarla Planlama** — Karmaşık görevler için dosya tabanlı planlama (Manus tarzı kalıcı Markdown planlama)
+- **🧭 HUMAN 3.0 Koçu** — Kişisel gelişim koçu
+- **📣 Sosyal İş Yayıncısı** — İş ilanı ve yayınlama
+- **🦞 moltbook** — Sıfır dağıtım AI Agent sosyal ağı
+- **📈 Beautiful Mermaid** — Akış şemaları, sıra diyagramları ve daha fazlası
+- **🔧 OpenClaw Kurulumu** — OpenClaw entegrasyonu için kurulum ve yapılandırma asistanı
+- **📖 Hikaye Rol Oynama** — Karakter kartları ve dünya bilgisi ile sürükleyici hikaye rol oynama (SillyTavern uyumlu)
+
+**Özel Beceriler**: `skills/` dizininde beceriler oluşturun, AI yeteneklerini genişletmek için asistanlar için becerileri etkinleştirin/devre dışı bırakın. Beceriler üç kaynaktan gelir: yerleşik (CLonUI ile birlikte gelen), özel (kendinizinkiler) ve Extension (Extension SDK aracılığıyla katkıda bulunulan). Yerleşik beceriler `pptx`, `docx`, `pdf`, `xlsx`, `mermaid` ve daha fazlasını içerir.
+
+> 💡 Her asistan bir markdown dosyası ile tanımlanır. Örnekler için `assistant/` dizinine bakın.
+
+</details>
+
+---
+
+## Her Yerden Cowork
+
+_7/24 AI asistanınız — CLonUI'ye herhangi bir cihazdan, her yerden erişin._
+
+- **WebUI Modu** — telefondan, tabletten veya herhangi bir bilgisayardan tarayıcı aracılığıyla erişin. LAN, çapraz ağ ve sunucu dağıtımını destekler. QR kod veya şifre girişi.
+
+- **Sohbet Platformu Entegrasyonu**
+  - **Telegram** — AI Agent'ınızla doğrudan Telegram'dan Cowork yapın
+  - **Lark (Feishu)** — Kurumsal işbirliği için Feishu botları aracılığıyla Cowork
+  - **DingTalk** — Otomatik geri dönüş ile AI Card akışı
+  - **WeChat** — Kişisel WeChat hesabı entegrasyonu
+  - **WeCom (企业微信), Slack, Discord** ve yakında daha fazla platform
+
+> **Kurulum:** CLonUI Ayarları → WebUI Ayarları → Kanal, Bot Token'ı yapılandırın.
+
+<p align="center">
+  <img src="../../resources/webui-remote.gif" alt="WebUI remote access demo" width="800">
+</p>
+
+<p align="center"><em>Agent'ınızı uzaktan kontrol edin ve izleyin — Claude, Gemini, Codex. Tarayıcı veya telefondan, Claude Code remote gibi.</em></p>
+
+> [Uzaktan İnternet Erişimi Öğreticisi](https://github.com/SolidAI/CLonUI/wiki/Remote-Internet-Access-Guide-Chinese)
+
+## ✨ Cowork Eylemde
+
+### **Zamanlanmış Görevler — Otomatik Pilotta Cowork**
+
+_Bir kez ayarlayın, AI Agent zamanlamaya göre otomatik olarak çalışır — gerçek 7/24 gözetimsiz işlem._
+
+- **Doğal Dil** — Agent'a ne yapacağını söyleyin, sadece sohbet ediyormuş gibi
+- **Üç zamanlama modu** — standart cron ifadesi (saat dilimi desteğiyle), sabit aralık (her N dakika/saat) veya tek seferlik tetikleme
+- **AI tarafından oluşturulan görevler** — Agent'lar bir konuşma sırasında özerk olarak zamanlanmış görevler oluşturabilir
+- **Kullanım Senaryoları:** zamanlanmış veri toplama, rapor oluşturma, dosya organizasyonu, hatırlatıcılar
+
+<p align="center">
+  <img src="../../resources/alart-task.png" alt="Scheduled Tasks" width="800">
+</p>
+
+<details>
+<summary><strong>🔍 Zamanlanmış Görev Detaylarını Görüntüle ▶️</strong></summary>
+
+<br>
+
+**Zamanlama modları:**
+
+- `Cron ifadesi` — saat dilimi desteğiyle standart 5 alan cron (örn. `0 9 * * 1`, `Asia/Shanghai`)
+- `Her N dakika/saat` — sabit aralık, örn. her 30 dakikada bir çalıştır
+- `Tek seferlik` — belirtilen tarih/saatte bir kez tetikle, sonra otomatik olarak devre dışı bırak
+
+**Çalıştırma modları:**
+
+- `Mevcut konuşmada devam et` — bağlı konuşmaya ekler, AI tam bağlam geçmişini korur
+- `Her seferinde yeni konuşma oluştur` — her tetiklemede yeni bir oturum açar, bağımsız periyodik raporlar için idealdir
+
+**Diğer yetenekler:**
+
+- **Konuşmaya Bağlı** — Her zamanlanmış görev bir konuşmaya bağlıdır, bağlamı ve geçmişi korur
+- **Otomatik Yürütme** — Görevler zamanlanmış saatlerde otomatik olarak çalışır, konuşmaya mesaj gönderir
+- **Kolay Yönetim** — Zamanlanmış görevleri istediğiniz zaman oluşturun, değiştirin, etkinleştirin/devre dışı bırakın, silin ve görüntüleyin
+- **Uyanık kal** — CLonUI görevler aktifken sistem uyku moduna geçmeyi otomatik olarak önler ve uyandıktan sonra kaçırılan tetikleyicileri algılar
+- **Gelişmiş yapılandırma** — her görevin kendi model, çalışma alanı dizini ve akıl yürütme eforu ayarları olabilir
+
+**Gerçek Dünya Örnekleri:**
+
+- Günlük hava durumu raporu oluşturma
+- Haftalık satış verisi toplama
+- Aylık yedek dosya organizasyonu
+- Özel hatırlatıcı bildirimleri
+
+</details>
+
+---
+
+### **Önizleme Paneli — AI Tarafından Oluşturulan Sonuçları Anında Görüntüle**
+
+_10+ format: PDF, Word, Excel, PPT, kod, Markdown, görüntüler, HTML, Diff — uygulamalar arasında geçiş yapmadan her şeyi görüntüleyin._
+
+- **Anında Önizleme** — Agent dosyaları oluşturduktan sonra, uygulamalar arasında geçiş yapmadan sonuçları hemen görüntüleyin
+- **Gerçek Zamanlı Takip + Düzenlenebilir** — dosya değişikliklerini otomatik olarak takip eder; Markdown, kod, HTML'in canlı düzenlemesini destekler
+- **Çoklu Sekme Desteği** — birden fazla dosyayı aynı anda açın, her biri kendi sekmesinde
+- **Sürüm Geçmişi** — dosyaların geçmiş sürümlerini görüntüleyin ve geri yükleyin (Git tabanlı)
+
+<p align="center">
+  <img src="../../resources/preview.gif" alt="Preview Panel" width="800">
+</p>
+
+<details>
+<summary><strong>🔍 Tam Format Listesini Görüntüle ▶️</strong></summary>
+
+<br>
+
+**Desteklenen Önizleme Formatları:**
+
+- **Belgeler** — PDF, Word (`.doc`, `.docx`, `.odt`), Excel (`.xls`, `.xlsx`, `.ods`, `.csv`), PowerPoint (`.ppt`, `.pptx`, `.odp`)
+- **Kod** — JavaScript, TypeScript, Python, Java, Go, Rust, C/C++, CSS, JSON, XML, YAML, Shell betikleri ve 30+ programlama dili
+- **İşaretleme** — Markdown (`.md`, `.markdown`), HTML (`.html`, `.htm`)
+- **Görüntüler** — PNG, JPG, JPEG, GIF, SVG, WebP, BMP, ICO, TIFF, AVIF
+- **Diğer** — Diff dosyaları (`.diff`, `.patch`)
+
+</details>
+
+---
+
+### **Akıllı Dosya Yönetimi — Otomatik Dosya İşlemleri**
+
+_Toplu yeniden adlandırma, otomatik organizasyon, akıllı sınıflandırma, dosya birleştirme — Cowork Agent sizin için halleder._
+
+<p align="center">
+  <img src="../../resources/clonui sort file 2.gif" alt="Smart File Management" width="800">
+</p>
+
+<details>
+<summary><strong>🔍 Dosya Yönetimi Özellik Detaylarını Görüntüle ▶️</strong></summary>
+
+<br>
+
+- **Otomatik Organize Et** — İçeriği akıllıca tanımlar ve otomatik olarak sınıflandırır, klasörleri düzenli tutar
+- **Verimli Toplu İşlem** — Tek tıkla yeniden adlandırma, dosya birleştirme, sıkıcı manuel görevlere veda edin
+- **Otomatik Yürütme** — AI Agent'lar bağımsız olarak dosya işlemlerini yürütebilir, dosyaları okuyup yazabilir ve görevleri otomatik olarak tamamlayabilir
+
+**Kullanım Senaryoları:**
+
+- Dosya türüne göre dağınık indirme klasörlerini organize edin
+- Anlamlı isimlerle fotoğrafları toplu olarak yeniden adlandırın
+- Birden fazla belgeyi birleştirin
+- İçeriğe göre dosyaları otomatik olarak sınıflandırın
+
+</details>
+
+---
+
+### **Excel Veri İşleme — AI Destekli Analiz**
+
+_Excel verilerini derinlemesine analiz edin, raporları otomatik olarak güzelleştirin ve içgörüler oluşturun — hepsi AI Agent'lar tarafından desteklenir._
+
+<p align="center">
+  <img src="../../resources/readme-demo-generate-excel.gif" alt="Excel Processing" width="800">
+</p>
+
+<details>
+<summary><strong>🔍 Excel İşleme Özelliklerini Görüntüle ▶️</strong></summary>
+
+<br>
+
+- **Akıllı Analiz** — AI veri kalıplarını analiz eder ve içgörüler oluşturur
+- **Otomatik Biçimlendirme** — Profesyonel stillendirme ile Excel raporlarını otomatik olarak güzelleştirir
+- **Veri Dönüşümü** — Doğal dil komutlarıyla verileri dönüştürün, birleştirin ve yeniden yapılandırın
+- **Rapor Oluşturma** — Ham verilerden kapsamlı raporlar oluşturun
+
+**Kullanım Senaryoları:**
+
+- Satış verilerini analiz edin ve aylık raporlar oluşturun
+- Dağınık Excel dosyalarını temizleyin ve biçimlendirin
+- Birden fazla elektronik tabloyu akıllıca birleştirin
+- Veri görselleştirmeleri ve grafikler oluşturun
+
+</details>
+
+---
+
+### **AI Görüntü Oluşturma ve Düzenleme**
+
+_Gemini tarafından desteklenen akıllı görüntü oluşturma, düzenleme ve tanıma_
+
+<p align="center">
+  <img src="../../resources/Image_Generation.gif" alt="AI Image Generation" width="800">
+</p>
+
+<details>
+<summary><strong>🔍 Görüntü Oluşturma Özelliklerini Görüntüle ▶️</strong></summary>
+
+<br>
+
+- **Metinden Görüntüye** — Doğal dil açıklamalarından görüntüler oluşturun
+- **Görüntü Düzenleme** — Mevcut görüntüleri değiştirin ve geliştirin
+- **Görüntü Tanıma** — Görüntü içeriğini analiz edin ve açıklayın
+- **Toplu İşleme** — Aynı anda birden fazla görüntü oluşturun
+
+</details>
+
+> [Görüntü oluşturma modeli yapılandırma kılavuzu](https://github.com/SolidAI/CLonUI/wiki/CLonUI-Image-Generation-Tool-Model-Configuration-Guide)
+
+---
+
+### **Belge Oluşturma — PPT, Word, Markdown**
+
+_AI Agent'lar ile profesyonel belgeleri otomatik olarak oluşturun — sunumlar, raporlar ve daha fazlası._
+
+<p align="center">
+  <img src="../../resources/file_generation_preview.png" alt="Document Generation" width="800">
+</p>
+
+<details>
+<summary><strong>🔍 Belge Oluşturma Özelliklerini Görüntüle ▶️</strong></summary>
+
+<br>
+
+- **PPTX Oluşturucu** — Anahatlar veya konulardan profesyonel sunumlar oluşturun
+- **Word Belgeleri** — Uygun yapıya sahip biçimlendirilmiş Word belgeleri oluşturun
+- **Markdown Dosyaları** — Dokümantasyon için Markdown belgeleri oluşturun ve biçimlendirin
+- **PDF Dönüşümü** — Çeşitli belge formatları arasında dönüştürün
+
+**Kullanım Senaryoları:**
+
+- Üç aylık iş sunumları oluşturun
+- Teknik dokümantasyon oluşturun
+- PDF'yi düzenlenebilir formatlara dönüştürün
+- Araştırma makalelerini otomatik olarak biçimlendirin
+
+</details>
+
+### **Kişiselleştirilmiş Arayüz Özelleştirme**
+
+_Kendi CSS kodunuzla özelleştirin, arayüzünüzü tercihlerinize uygun hale getirin_
+
+<p align="center">
+  <img src="../../resources/css with skin.gif" alt="CSS Customization" width="800">
+</p>
+
+- ✅ **Tamamen Özelleştirilebilir** — CSS kodu aracılığıyla arayüz renklerini, stillerini, düzenini özgürce özelleştirin, özel deneyiminizi oluşturun
+
+---
+
+### **Çoklu Görev Paralel İşleme**
+
+_Birden fazla konuşma açın, görevler karışmaz, bağımsız bellek, verimlilik iki katına çıkar_
+
+<p align="center">
+  <img src="../../resources/multichat-side-by-side.gif" alt="Multi-Task Parallel" width="800">
+</p>
+
+- ✅ **Bağımsız Bağlam** — Her konuşma kendi bağlamını ve geçmişini korur
+- ✅ **Paralel Yürütme** — Müdahale olmadan birden fazla görevi aynı anda çalıştırın
+- ✅ **Akıllı Yönetim** — Görsel göstergelerle konuşmalar arasında kolay geçiş
+
+---
+
+## 🤔 Neden CLonUI, Claude Cowork Yerine?
+
+<details>
+<summary><strong>Detaylı karşılaştırmayı görmek için tıklayın</strong></summary>
+
+<br>
+
+CLonUI **ücretsiz ve açık kaynaklı bir Çoklu AI Agent Masaüstü** uygulamasıdır. Sadece macOS'ta çalışan ve Claude'ye kilitli Claude Cowork ile karşılaştırıldığında, CLonUI tam model, çapraz platform geliştirilmiş versiyonudur.
+
+| Boyut           | Claude Cowork | CLonUI                                            |
+| :-------------- | :------------ | :------------------------------------------------ |
+| İşletim Sistemi | Sadece macOS  | macOS / Windows / Linux                           |
+| Model Desteği   | Sadece Claude | Gemini, Claude, DeepSeek, OpenAI, Ollama, ...     |
+| Etkileşim       | Masaüstü GUI  | Masaüstü GUI + WebUI + Telegram / Lark / DingTalk |
+| Otomasyon       | Sadece manuel | Cron zamanlanmış görevler — 7/24 gözetimsiz       |
+| Maliyet         | $100/ay       | Ücretsiz ve Açık Kaynak                           |
+
+Derin AI Ofis Senaryosu Desteği:
+
+- **Dosya Yönetimi**: Yerel klasörleri akıllıca organize edin ve tek tıkla toplu yeniden adlandırın.
+- **Veri İşleme**: Excel raporlarını derinlemesine analiz edin ve otomatik olarak güzelleştirin.
+- **Belge Oluşturma**: PPT, Word ve Markdown belgelerini otomatik olarak yazın ve biçimlendirin.
+- **Anında Önizleme**: Yerleşik 10+ format önizleme panelleri, AI işbirliği sonuçları anında görünür.
+
+</details>
+
+---
+
+## Hızlı Soru-Cevap
+
+<details>
+<summary><strong>S: Önce Gemini CLI veya Claude Code'u kurmam gerekiyor mu?</strong></summary>
+C: <strong>Hayır.</strong> CLonUI kurulumdan hemen sonra çalışan yerleşik bir AI Agent'a sahiptir. Başlamak için herhangi bir API anahtarı girmeniz yeterli. Ayrıca Claude Code veya Gemini CLI gibi CLI araçlarınız da kuruluysa, CLonUI bunları otomatik olarak algılayacak ve daha fazla yetenek için entegre edecektir.
+</details>
+
+<details>
+<summary><strong>S: CLonUI ile ne yapabilirim?</strong></summary>
+C: CLonUI sizin <strong>özel Cowork çalışma alanınızdır</strong>. Yerleşik Agent klasörleri toplu olarak organize edebilir, Excel verilerini işleyebilir, belgeler oluşturabilir, web'de arama yapabilir ve görüntüler oluşturabilir. Çoklu Agent Modu ile aynı arayüz üzerinden Claude Code, Codex ve diğer güçlü CLI Agent'larından da yararlanabilirsiniz.
+</details>
+
+<details>
+<summary><strong>S: Ücretsiz mi?</strong></summary>
+C: CLonUI tamamen ücretsiz ve açık kaynaklıdır. Yalnızca seçtiğiniz sağlayıcının API kullanımı için ödeme yaparsınız ve tercih ettiğiniz herhangi bir sağlayıcıdan API anahtarları kullanabilirsiniz.
+</details>
+
+<details>
+<summary><strong>S: Verilerim güvende mi?</strong></summary>
+C: Tüm veriler yerel olarak bir SQLite veritabanında saklanır. Hiçbir şey herhangi bir sunucuya yüklenmez.
+</details>
+
+---
+
+## İnsanların CLonUI'yi Nasıl Kullandığını Görün
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=vWxE6VO9TKo" target="_blank">
+    <img src="https://img.youtube.com/vi/vWxE6VO9TKo/maxresdefault.jpg" alt="Hermes + Aion UI is Insane (FREE)!" width="400">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.youtube.com/watch?v=RgSLdOhICZw" target="_blank">
+    <img src="https://img.youtube.com/vi/RgSLdOhICZw/maxresdefault.jpg" alt="OpenClaw + Aion UI is Insane (FREE!)" width="400">
+  </a>
+</p>
+<p align="center">
+  <em>Julian Goldie SEO — Hermes + Aion UI is Insane (FREE!) · 27K views</em> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>Julian Goldie SEO — OpenClaw + Aion UI is Insane (FREE!) · 11K views</em>
+</p>
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=yUU5E-U5B3M" target="_blank">
+    <img src="https://img.youtube.com/vi/yUU5E-U5B3M/maxresdefault.jpg" alt="WorldofAI Review" width="400">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.youtube.com/watch?v=enQnkKfth10" target="_blank">
+    <img src="https://img.youtube.com/vi/enQnkKfth10/maxresdefault.jpg" alt="Julian Goldie SEO Review" width="400">
+  </a>
+</p>
+<p align="center">
+  <em>WorldofAI (200K abone)</em> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>Julian Goldie SEO (384K abone)</em>
+</p>
+
+### Topluluk Makaleleri
+
+- [Açık kaynak ücretsiz Cowork, tam model entegrasyonu + özerk dosya işlemleri](https://mp.weixin.qq.com/s/F3f-CCsVPaK3lK00jXhOOg) — Açık Kaynak AI Projesi Uygulaması
+- [Sıradan insanların Claude Code'u bir APP gibi kullanmasını sağlamak](https://mp.weixin.qq.com/s/TsMojSbkUUFvsd-HQCazZg) — Tembel Kedi Balık Sever
+- [5500 Stars: Açık Kaynak Anthropic'in AI Araç Setini Nasıl Kırıyor](https://mp.weixin.qq.com/s/saEk49cYV6MqBgw19Lw6Gw) — AI Silikon Anı
+
+> **CLonUI hakkında bir video yaptınız mı?** [X'te bize bildirin](https://x.com/CLonUI) ve burada öne çıkaralım!
+
+---
+
+## 🚀 Hızlı Başlangıç
+
+### Sistem Gereksinimleri
+
+- **macOS**: 10.15 veya üzeri
+- **Windows**: Windows 10 veya üzeri
+- **Linux**: Ubuntu 18.04+ / Debian 10+ / Fedora 32+
+- **Bellek**: 4GB+ önerilir
+- **Depolama**: 500MB+ kullanılabilir alan
+
+### Kurulum
+
+<p>
+  <a href="https://github.com/SolidAI/CLonUI/releases">
+    <img src="https://img.shields.io/badge/İndir-En%20Son%20Sürüm-32CD32?style=for-the-badge&logo=github&logoColor=white" alt="En Son Sürümü İndir" height="50">
+  </a>
+</p>
+
+Releases sayfasına gitmek ve platformunuz için yükleyiciyi indirmek için yukarıdaki butona tıklayın (macOS / Windows / Linux).
+
+```bash
+# Alternatively, macOS via Homebrew
+brew install clonui
+```
+
+### 3 Adımda Başlayın
+
+1. **Kurun** CLonUI
+2. **Girin** başlamak için herhangi bir API anahtarı
+3. **Cowork'a başlayın** — yerleşik AI Agent kullanıma hazır
+
+### 📖 Detaylı Kılavuzlar
+
+<details>
+<summary><strong>📖 Tam Kullanım Kılavuzunu Görüntülemek İçin Genişletin</strong></summary>
+
+<br>
+
+**🚀 Hızlı Başlangıç**
+
+- [📖 Tam Kurulum Kılavuzu](https://github.com/SolidAI/CLonUI/wiki/Getting-Started) — İndirmeden yapılandırmaya kadar detaylı adımlar
+- [⚙️ LLM Yapılandırma Kılavuzu](https://github.com/SolidAI/CLonUI/wiki/LLM-Configuration) — Çoklu platform AI model yapılandırması
+- [🤖 Çoklu Agent Modu Kurulumu](https://github.com/SolidAI/CLonUI/wiki/ACP-Setup) — Terminal AI Agent'larını entegre edin
+- [🔌 MCP Araç Yapılandırması](https://github.com/SolidAI/CLonUI/wiki/MCP-Configuration-Guide) — Model Context Protocol sunucu kurulumu
+- [🌐 WebUI Yapılandırma Kılavuzu](https://github.com/SolidAI/CLonUI/wiki/WebUI-Configuration-Guide) — Tam WebUI kurulum ve yapılandırma öğreticisi
+
+**🎯 Kullanım Senaryoları**
+
+- [📁 Dosya Yönetimi](https://github.com/SolidAI/CLonUI/wiki/file-management) — Akıllı dosya organizasyonu
+- [📊 Excel İşleme](https://github.com/SolidAI/CLonUI/wiki/excel-processing) — AI destekli veri işleme
+- [🎨 Görüntü Oluşturma](https://github.com/SolidAI/CLonUI/wiki/CLonUI-Image-Generation-Tool-Model-Configuration-Guide) — AI görüntü oluşturma
+- [📚 Daha Fazla Kullanım Senaryosu](https://github.com/SolidAI/CLonUI/wiki/Use-Cases-Overview)
+
+**❓ Destek ve Yardım**
+
+- [❓ SSS](https://github.com/SolidAI/CLonUI/wiki/FAQ) — Sorular ve sorun giderme
+- [🔧 Yapılandırma ve Kullanım Öğreticileri](https://github.com/SolidAI/CLonUI/wiki/Configuration-Guides) — Tam yapılandırma dokümantasyonu
+
+</details>
+
+---
+
+## 💬 Topluluk ve Destek
+
+**Fikirleriniz önemli!** Her öneri ve geri bildirimi değerli görüyoruz.
+
+<p align="center">
+  <a href="https://x.com/CLonUI" target="_blank">
+    <img src="../../resources/contactus-x.png" alt="Contact Us on X" width="600">
+  </a>
+</p>
+
+- [GitHub Discussions](https://github.com/SolidAI/CLonUI/discussions) — fikirleri paylaşın ve ipuçları alışverişi yapın
+- [Sorun Bildir](https://github.com/SolidAI/CLonUI/issues) — hatalar ve özellik istekleri
+- [Sürüm Güncellemeleri](https://github.com/SolidAI/CLonUI/releases) — en son sürümü alın
+
+### Katkıda Bulunma
+
+1. Bu projeyi fork edin
+2. Bir özellik dalı oluşturun (`git checkout -b feature/AmazingFeature`)
+3. Değişikliklerinizi commit edin (`git commit -m 'Add some AmazingFeature'`)
+4. Dala push edin (`git push origin feature/AmazingFeature`)
+5. Bir Pull Request açın
+
+### Geliştirme Ortamı
+
+CLonUI yerel geliştirme iki depo kullanır: Electron frontend için CLonUI ve yerel backend için CLonCore. macOS, Linux ve Windows için tam kurulum adımları için [Development Guide](../contributing/development.md) belgesine bakın.
+
+---
+
+## Lisans
+
+Bu proje [Apache-2.0](../../LICENSE) lisansı altında lisanslanmıştır.
+
+---
+
+## Katkıda Bulunanlar
+
+<p align="center">
+  <a href="https://github.com/SolidAI/CLonUI/graphs/contributors">
+    <img src="https://contrib.rocks/image?repo=SolidAI/CLonUI&max=100" alt="Contributors" />
+  </a>
+</p>
+
+## Yıldız Geçmişi
+
+<p align="center">
+  <a href="https://www.star-history.com/#SolidAI/clonui&Date" target="_blank">
+    <img src="https://api.star-history.com/svg?repos=SolidAI/clonui&type=Date" alt="Star History" width="600">
+  </a>
+</p>
+
+<div align="center">
+
+**Beğendiyseniz, bize bir yıldız verin**
+
+[Hata Bildir](https://github.com/SolidAI/CLonUI/issues) · [Özellik İste](https://github.com/SolidAI/CLonUI/issues)
+
+</div>

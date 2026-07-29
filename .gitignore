@@ -1,0 +1,8 @@
+node_modules/
+dist/
+dist-server/
+out/
+*.log
+.DS_Store
+data/
+.clonui/
