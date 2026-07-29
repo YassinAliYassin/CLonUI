@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="../../resources/clonui-banner-1.png" alt="CLonUI - Cowork with AI Agents" width="100%">
 </p>
 
 <p align="center">
@@ -38,7 +37,6 @@
 
 <p align="center">
   <a href="https://x.com/CLonUI/status/2079493379914961069">
-    <img src="../../resources/kimi/contributor-bonus-black-blue.jpg" alt="CLonUI × Kimi Бонус для контрибьюторов" width="600">
   </a>
 </p>
 
@@ -82,7 +80,6 @@
 | Цена                                   | Бесплатно / Платно   | **Бесплатно и с открытым исходным кодом**                                                                                |
 
 <p align="center">
-  <img src="../../resources/offica-ai BANNER-function.png" alt="CLonUI Cowork Platform" width="800">
 </p>
 
 ---
@@ -97,7 +94,6 @@ CLonUI поставляется с полноценным движком ИИ-а
 - **Готовые ассистенты** — 21 встроенный профессиональный ассистент (Cowork, PPT Creator, Word Creator, Word Form Creator, Excel Creator, Morph PPT, Morph PPT 3D, Pitch Deck Creator, Dashboard Creator, Academic Paper Writer, Financial Model Creator и другие) — все готовы к использованию сразу
 
 <p align="center">
-  <img src="../../resources/homepage.png" alt="Built-in Agents" width="800">
 </p>
 
 ### **Офисные ассистенты — PPT, Word и Excel**
@@ -113,10 +109,8 @@ CLonUI поставляется с полноценным движком ИИ-а
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="../../resources/morph-ppt-balanced.gif" alt="Morph PPT — slide-to-slide transitions (OfficeCLI)" width="390">
     </td>
     <td align="center" width="50%">
-      <img src="../../resources/readme-demo-assistant-ppt.gif" alt="PPT assistant — screen recording" width="390">
     </td>
   </tr>
 </table>
@@ -129,10 +123,8 @@ CLonUI поставляется с полноценным движком ИИ-а
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="../../resources/readme-demo-generate-academic-paper.gif" alt="Generate academic paper demo" width="390">
     </td>
     <td align="center" width="50%">
-      <img src="../../resources/readme-demo-assistant-write-paper.gif" alt="Paper writing assistant demo" width="390">
     </td>
   </tr>
 </table>
@@ -145,10 +137,8 @@ CLonUI поставляется с полноценным движком ИИ-а
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="../../resources/readme-demo-generate-excel.gif" alt="Excel generation demo" width="390">
     </td>
     <td align="center" width="50%">
-      <img src="../../resources/readme-demo-assistant-excel.gif" alt="Excel assistant demo" width="390">
     </td>
   </tr>
 </table>
@@ -162,7 +152,6 @@ CLonUI поставляется с полноценным движком ИИ-а
 **Поддерживаемые агенты:** Встроенный агент (без настройки) • Claude Code • Codex • Qwen Code • Goose AI • OpenClaw • Augment Code • CodeBuddy • Kimi CLI • OpenCode • Factory Droid • GitHub Copilot • Qoder CLI • Mistral Vibe • Nanobot • Clown CLI (clonrs, Rust-бэкенд-сервис, поставляемый с CLonUI) • Snow CLI • Hermes Agent • Cursor Agent и другие
 
 <p align="center">
-  <img src="../../resources/multi-agent支持openclaw.gif" alt="Multi-Agent Cowork" width="800">
 </p>
 
 - **Автоопределение** — автоматически распознаёт установленные CLI-инструменты
@@ -176,7 +165,6 @@ CLonUI поставляется с полноценным движком ИИ-а
 Запускайте несколько ИИ-агентов как организованную команду: агент **Leader** получает ваши инструкции, разбивает их на подзадачи и делегирует агентам **Teammate** через встроенный Team MCP Server. Teammate-агенты выполняют задачи параллельно, обмениваются результатами через асинхронный почтовый ящик и записывают в общую доску задач.
 
 <p align="center">
-  <img src="../../resources/CLonUI_team.gif" alt="Team Mode overview" width="800">
 </p>
 
 - **Параллельное выполнение нескольких агентов** — Leader разбивает задачи на подзадачи и делегирует параллельно работающим Teammate-агентам; каждый Teammate использует свою модель через ACP (Agent Communication Protocol, слой координации мультиагентности CLonUI), Gemini или CLonrs
@@ -214,7 +202,6 @@ CLonUI поставляется с полноценным движком ИИ-а
 Одни и те же возможности — чтение/запись файлов, поиск в интернете, генерация изображений, использование инструментов — независимо от того, какая модель лежит в основе. CLonUI поддерживает **30+ ИИ-платформ**, включая облачные сервисы и локальные развёртывания.
 
 <p align="center">
-  <img src="../../resources/llm_newapi.png" alt="Multi-Model Support" width="800">
 </p>
 
 <details>
@@ -245,7 +232,6 @@ _Расширяемая система ассистентов с 21 встрое
 - **Контроль для каждого разговора** — индикатор навыков в заголовке чата показывает активные навыки текущего разговора; ищите и исключайте навыки по необходимости
 
 <p align="center">
-  <img src="../../resources/assitants.png" alt="AI Assistants & Skills Ecosystem" width="800">
 </p>
 
 CLonUI поддерживает три уровня навыков: **встроенные** навыки (поставляются с приложением), **пользовательские** навыки (создаются пользователем) и **навыки расширений** (загружаются через Extension SDK).
@@ -300,7 +286,6 @@ _Ваш ИИ-ассистент 24/7 — доступ к CLonUI с любого 
 > **Настройка:** Настройки CLonUI → Настройки WebUI → Канал, настройте токен бота.
 
 <p align="center">
-  <img src="../../resources/webui-remote.gif" alt="WebUI remote access demo" width="800">
 </p>
 
 <p align="center"><em>Удалённо управляйте агентом и отслеживайте его работу — Claude, Gemini или Codex. Используйте браузер или телефон, как в Claude Code remote.</em></p>
@@ -321,7 +306,6 @@ _Настройте один раз, ИИ-агент работает автом
 - **Примеры использования:** запланированная агрегация данных, генерация отчётов, организация файлов, напоминания
 
 <p align="center">
-  <img src="../../resources/alart-task.png" alt="Scheduled Tasks" width="800">
 </p>
 
 <details>
@@ -369,7 +353,6 @@ _10+ форматов: PDF, Word, Excel, PPT, код, Markdown, изображе
 - **История версий** — просматривайте и восстанавливайте предыдущие версии файлов (на базе Git)
 
 <p align="center">
-  <img src="../../resources/preview.gif" alt="Preview Panel" width="800">
 </p>
 
 <details>
@@ -394,7 +377,6 @@ _10+ форматов: PDF, Word, Excel, PPT, код, Markdown, изображе
 _Пакетное переименование, автоматическая организация, умная классификация, объединение файлов — Cowork-агент справится с этим за вас._
 
 <p align="center">
-  <img src="../../resources/clonui sort file 2.gif" alt="Smart File Management" width="800">
 </p>
 
 <details>
@@ -422,7 +404,6 @@ _Пакетное переименование, автоматическая о�
 _Глубокий анализ данных Excel, автоформатирование отчётов и генерация выводов — всё на базе ИИ-агентов._
 
 <p align="center">
-  <img src="../../resources/generate_xlsx.gif" alt="Excel Processing" width="800">
 </p>
 
 <details>
@@ -451,7 +432,6 @@ _Глубокий анализ данных Excel, автоформатиров�
 _Интеллектуальная генерация, редактирование и распознавание изображений на базе Gemini_
 
 <p align="center">
-  <img src="../../resources/Image_Generation.gif" alt="AI Image Generation" width="800">
 </p>
 
 <details>
@@ -475,7 +455,6 @@ _Интеллектуальная генерация, редактировани
 _Автоматическая генерация профессиональных документов — презентаций, отчётов и многого другого — с помощью ИИ-агентов._
 
 <p align="center">
-  <img src="../../resources/file_generation_preview.png" alt="Document Generation" width="800">
 </p>
 
 <details>
@@ -502,7 +481,6 @@ _Автоматическая генерация профессиональны�
 _Настройте с помощью собственного CSS-кода, сделайте интерфейс под свои предпочтения_
 
 <p align="center">
-  <img src="../../resources/css with skin.gif" alt="CSS Customization" width="800">
 </p>
 
 - ✅ **Полная настраиваемость** — свободно настраивайте цвета, стили, макет интерфейса через CSS-код, создайте свой уникальный опыт
@@ -514,7 +492,6 @@ _Настройте с помощью собственного CSS-кода, с�
 _Открывайте несколько разговоров, задачи не перемешиваются, независимая память, двойная эффективность_
 
 <p align="center">
-  <img src="../../resources/multichat-side-by-side.gif" alt="Multi-Task Parallel" width="800">
 </p>
 
 - ✅ **Независимый контекст** — каждый разговор сохраняет собственный контекст и историю
@@ -692,7 +669,6 @@ brew install clonui
 
 <p align="center">
   <a href="https://x.com/CLonUI" target="_blank">
-    <img src="../../resources/contactus-x.png" alt="Contact Us on X" width="600">
   </a>
 </p>
 

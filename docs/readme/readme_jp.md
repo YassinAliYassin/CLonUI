@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="../../resources/clonui-banner-1.png" alt="CLonUI - Cowork with AI Agents" width="100%">
 </p>
 
 <p align="center">
@@ -38,7 +37,6 @@
 
 <p align="center">
   <a href="https://x.com/CLonUI/status/2079493379914961069">
-    <img src="../../resources/kimi/contributor-bonus-black-blue.jpg" alt="CLonUI × Kimi コントリビューターボーナス" width="600">
   </a>
 </p>
 
@@ -82,7 +80,6 @@
 | 価格                                  | 無料 / 有料                    | **無料かつオープンソース**                                                                                           |
 
 <p align="center">
-  <img src="../../resources/offica-ai BANNER-function.png" alt="CLonUI Cowork Platform" width="800">
 </p>
 
 ---
@@ -97,7 +94,6 @@ CLonUI には完全な AI Agent エンジンが内蔵されています。CLI Ag
 - **すぐに使えるアシスタント** — 21 個の内蔵プロフェッショナルアシスタント（Cowork、PPT クリエーター、Word クリエーター、Word フォームクリエーター、Excel クリエーター、Morph PPT、Morph PPT 3D、Pitch Deck クリエーター、ダッシュボードクリエーター、学術論文ライター、財務モデルクリエーターなど）がすぐに使えます
 
 <p align="center">
-  <img src="../../resources/homepage.png" alt="Built-in Agents" width="800">
 </p>
 
 ### **Morph PPT アニメーションデモ — 一言で滑らかな遷移**
@@ -110,7 +106,6 @@ _CLonUI には専用の Morph PPT アシスタントが内蔵されています�
 - **生成してすぐ確認** — `.ppt` / `.pptx` を CLonUI 上でそのままプレビュー
 
 <p align="center">
-  <img src="../../resources/morph-ppt-balanced.gif" alt="Morph PPT Demo" width="800">
 </p>
 
 ---
@@ -122,7 +117,6 @@ _CLonUI には専用の Morph PPT アシスタントが内蔵されています�
 **サポートされている Agent：** 内蔵 Agent（ゼロ設定） • Claude Code • Codex • Qwen Code • Goose AI • OpenClaw • Augment Code • CodeBuddy • Kimi CLI • OpenCode • Factory Droid • GitHub Copilot • Qoder CLI • Mistral Vibe • Nanobot • Clown CLI（clonrs、CLonUI に同梱される Rust バックエンドサービス） • Snow CLI • Hermes Agent • Cursor Agent など
 
 <p align="center">
-  <img src="../../resources/multi-agent支持openclaw.gif" alt="Multi-Agent Cowork" width="800">
 </p>
 
 - **自動検出** — インストール済みの CLI ツールを自動認識
@@ -136,7 +130,6 @@ _CLonUI には専用の Morph PPT アシスタントが内蔵されています�
 複数の AI Agent をチームとして実行：**Leader** Agent がユーザーの指示を受け取り、サブタスクに分解し、内蔵の Team MCP Server を通じて **Teammate** Agent に委任。Teammate は並行して実行し、非同期メールボックスで結果を共有し、共有タスクボードに書き込みます。
 
 <p align="center">
-  <img src="../../resources/CLonUI_team.gif" alt="Team Mode overview" width="800">
 </p>
 
 - **並列マルチエージェント実行** — Leader がタスクをサブタスクに分解して並行実行する Teammate Agent に委任；各 Teammate は ACP（Agent Communication Protocol、CLonUI のマルチエージェント調整層）、Gemini、または CLonrs を通じて独自のモデルを使用
@@ -173,7 +166,6 @@ _CLonUI には専用の Morph PPT アシスタントが内蔵されています�
 どのモデルで動かしても、Agent の機能は同じ——ファイル読み書き、ウェブ検索、画像生成、ツール使用。CLonUI はクラウドサービスとローカルデプロイメントを含む **30+ の AI プラットフォーム**をサポートしています。
 
 <p align="center">
-  <img src="../../resources/llm_newapi.png" alt="Multi-Model Support" width="800">
 </p>
 
 <details>
@@ -204,7 +196,6 @@ _21 個の内蔵プロフェッショナルアシスタントと三層スキル�
 - **会話レベルの制御** — チャットヘッダーのスキルインジケーターが現在の会話のアクティブスキルを表示；スキルの検索と除外が可能
 
 <p align="center">
-  <img src="../../resources/assitants.png" alt="AI Assistants & Skills Ecosystem" width="800">
 </p>
 
 <details>
@@ -257,7 +248,6 @@ _あなたの 24/7 AI アシスタント — あらゆるデバイス、どこ�
 > **設定：** CLonUI 設定 → WebUI 設定 → Channel、Bot Token を設定します。
 
 <p align="center">
-  <img src="../../resources/webui-remote.gif" alt="WebUI remote access demo" width="800">
 </p>
 
 <p align="center"><em>リモートでエージェントを監視・操作 — Claude、Gemini、Codex。ブラウザやスマホから、Claude Code remote のように使えます。</em></p>
@@ -276,7 +266,6 @@ _一度設定すれば、AI Agent がスケジュールに従って自動実行�
 - **使用例：** スケジュールデータ集約、レポート生成、ファイル整理、リマインダー
 
 <p align="center">
-  <img src="../../resources/alart-task.png" alt="Scheduled Tasks" width="800">
 </p>
 
 <details>
@@ -324,7 +313,6 @@ _10+ フォーマット：PDF、Word、Excel、PPT、コード、Markdown、画�
 - **バージョン履歴** — ファイルの履歴バージョンを表示および復元（Git ベース）
 
 <p align="center">
-  <img src="../../resources/preview.gif" alt="Preview Panel" width="800">
 </p>
 
 <details>
@@ -349,7 +337,6 @@ _10+ フォーマット：PDF、Word、Excel、PPT、コード、Markdown、画�
 _バッチリネーム、自動整理、スマート分類、ファイルマージ——Cowork Agent があなたのために処理します。_
 
 <p align="center">
-  <img src="../../resources/clonui sort file 2.gif" alt="Smart File Management" width="800">
 </p>
 
 <details>
@@ -377,7 +364,6 @@ _バッチリネーム、自動整理、スマート分類、ファイルマー�
 _Excel データを深く分析し、レポートを自動的に美化し、インサイトを生成——すべて AI Agent が駆動。_
 
 <p align="center">
-  <img src="../../resources/readme-demo-generate-excel.gif" alt="Excel Processing" width="800">
 </p>
 
 <details>
@@ -406,7 +392,6 @@ _Excel データを深く分析し、レポートを自動的に美化し、イ�
 _Gemini 駆動のインテリジェントな画像生成、編集、認識_
 
 <p align="center">
-  <img src="../../resources/Image_Generation.gif" alt="AI Image Generation" width="800">
 </p>
 
 <details>
@@ -430,7 +415,6 @@ _Gemini 駆動のインテリジェントな画像生成、編集、認識_
 _AI Agent でプロフェッショナルなドキュメントを自動生成——プレゼンテーション、レポートなど。_
 
 <p align="center">
-  <img src="../../resources/file_generation_preview.png" alt="Document Generation" width="800">
 </p>
 
 <details>
@@ -457,7 +441,6 @@ _AI Agent でプロフェッショナルなドキュメントを自動生成—�
 _独自の CSS コードでカスタマイズし、インターフェースを好みに合わせる_
 
 <p align="center">
-  <img src="../../resources/css with skin.gif" alt="CSS Customization" width="800">
 </p>
 
 - ✅ **完全にカスタマイズ可能** — CSS コードを通じてインターフェースの色、スタイル、レイアウトを自由にカスタマイズし、独自の体験を作成
@@ -469,7 +452,6 @@ _独自の CSS コードでカスタマイズし、インターフェースを�
 _複数の会話を開き、タスクが混ざらない、独立したメモリ、効率が 2 倍_
 
 <p align="center">
-  <img src="../../resources/multichat-side-by-side.gif" alt="Multi-Task Parallel" width="800">
 </p>
 
 - ✅ **独立したコンテキスト** — 各会話が独自のコンテキストと履歴を維持
@@ -636,7 +618,6 @@ brew install clonui
 
 <p align="center">
   <a href="https://x.com/CLonUI" target="_blank">
-    <img src="../../resources/contactus-x.png" alt="Contact Us on X" width="600">
   </a>
 </p>
 

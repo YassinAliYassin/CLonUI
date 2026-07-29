@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="../../resources/clonui-banner-1.png" alt="CLonUI - Cowork with AI Agents" width="100%">
 </p>
 
 <p align="center">
@@ -38,7 +37,6 @@
 
 <p align="center">
   <a href="https://x.com/CLonUI/status/2079493379914961069">
-    <img src="../../resources/kimi/contributor-bonus-black-blue.jpg" alt="CLonUI × Kimi Katkıda Bulunan Bonusu" width="600">
   </a>
 </p>
 
@@ -81,7 +79,6 @@
 | Fiyat                                  | Ücretsiz / Ücretli               | **Ücretsiz ve Açık Kaynak**                                                                                                     |
 
 <p align="center">
-  <img src="../../resources/offica-ai BANNER-function.png" alt="CLonUI Cowork Platform" width="800">
 </p>
 
 ---
@@ -96,7 +93,6 @@ CLonUI tam bir AI Agent motoru ile birlikte gelir. CLI Agent'ları ayrı olarak 
 - **Kullanıma hazır asistanlar** — 21 yerleşik profesyonel asistan (Cowork, PPT Creator, Morph PPT, Morph PPT 3D, Word Creator, Word Form Creator, Excel Creator, Pitch Deck Creator, Dashboard Creator, Academic Paper Writer, Financial Model Creator ve daha fazlası) hemen kullanıma hazır
 
 <p align="center">
-  <img src="../../resources/homepage.png" alt="Built-in Agents" width="800">
 </p>
 
 ---
@@ -108,7 +104,6 @@ Zaten Claude Code, Codex, Hermes Agent veya OpenClaw kullanıyorsanız, CLonUI b
 **Desteklenen Agents:** Yerleşik Agent (sıfır kurulum) • Claude Code • Codex • Qwen Code • Goose AI • OpenClaw • Augment Code • CodeBuddy • Kimi CLI • OpenCode • Factory Droid • GitHub Copilot • Qoder CLI • Mistral Vibe • Nanobot • Clown CLI (clonrs, CLonUI ile birlikte dağıtılan Rust tabanlı arka uç servisi) • Snow CLI • Hermes Agent • Cursor Agent ve daha fazlası
 
 <p align="center">
-  <img src="../../resources/multi-agent支持openclaw.gif" alt="Multi-Agent Cowork" width="800">
 </p>
 
 - **Otomatik Algılama** — kurulu CLI araçlarını otomatik olarak tanır
@@ -122,7 +117,6 @@ Zaten Claude Code, Codex, Hermes Agent veya OpenClaw kullanıyorsanız, CLonUI b
 Birden fazla AI Agent'ı organize bir ekip olarak çalıştırın: bir **Leader** Agent talimatlarınızı alır, bunları alt görevlere böler ve yerleşik Team MCP Server aracılığıyla **Teammate** Agent'lara devreder. Teammate'ler paralel olarak çalışır, asenkron posta kutusu üzerinden sonuçları paylaşır ve paylaşılan görev panosuna yazar.
 
 <p align="center">
-  <img src="../../resources/CLonUI_team.gif" alt="Team Mode overview" width="800">
 </p>
 
 - **Paralel çoklu agent çalıştırma** — Leader görevleri alt görevlere bölerek paralel çalışan Teammate Agent'lara devreder; her Teammate ACP (Agent Communication Protocol, CLonUI'nin çoklu agent koordinasyon katmanı), Gemini veya CLonrs aracılığıyla kendi modelini kullanır
@@ -159,7 +153,6 @@ Diğer AI uygulamaları size API anahtarınızla bir sohbet kutusu verir. **CLon
 Aynı Agent yetenekleri — dosya okuma/yazma, web arama, görüntü oluşturma, araç kullanımı — hangi modelin güç verdiğine bakılmaksızın. CLonUI bulut hizmetleri ve yerel dağıtımlar dahil **30+ AI platformunu** destekler.
 
 <p align="center">
-  <img src="../../resources/llm_newapi.png" alt="Multi-Model Support" width="800">
 </p>
 
 <details>
@@ -190,7 +183,6 @@ _21 yerleşik profesyonel asistan ve üç katmanlı beceri sistemi ile genişlet
 - **Konuşma Başına Kontrol** — Sohbet başlığındaki beceri göstergesi aktif becerileri gösterir; ihtiyaç halinde becerileri arayın ve hariç tutun
 
 <p align="center">
-  <img src="../../resources/assitants.png" alt="AI Assistants & Skills Ecosystem" width="800">
 </p>
 
 <details>
@@ -243,7 +235,6 @@ _7/24 AI asistanınız — CLonUI'ye herhangi bir cihazdan, her yerden erişin._
 > **Kurulum:** CLonUI Ayarları → WebUI Ayarları → Kanal, Bot Token'ı yapılandırın.
 
 <p align="center">
-  <img src="../../resources/webui-remote.gif" alt="WebUI remote access demo" width="800">
 </p>
 
 <p align="center"><em>Agent'ınızı uzaktan kontrol edin ve izleyin — Claude, Gemini, Codex. Tarayıcı veya telefondan, Claude Code remote gibi.</em></p>
@@ -262,7 +253,6 @@ _Bir kez ayarlayın, AI Agent zamanlamaya göre otomatik olarak çalışır — 
 - **Kullanım Senaryoları:** zamanlanmış veri toplama, rapor oluşturma, dosya organizasyonu, hatırlatıcılar
 
 <p align="center">
-  <img src="../../resources/alart-task.png" alt="Scheduled Tasks" width="800">
 </p>
 
 <details>
@@ -310,7 +300,6 @@ _10+ format: PDF, Word, Excel, PPT, kod, Markdown, görüntüler, HTML, Diff —
 - **Sürüm Geçmişi** — dosyaların geçmiş sürümlerini görüntüleyin ve geri yükleyin (Git tabanlı)
 
 <p align="center">
-  <img src="../../resources/preview.gif" alt="Preview Panel" width="800">
 </p>
 
 <details>
@@ -335,7 +324,6 @@ _10+ format: PDF, Word, Excel, PPT, kod, Markdown, görüntüler, HTML, Diff —
 _Toplu yeniden adlandırma, otomatik organizasyon, akıllı sınıflandırma, dosya birleştirme — Cowork Agent sizin için halleder._
 
 <p align="center">
-  <img src="../../resources/clonui sort file 2.gif" alt="Smart File Management" width="800">
 </p>
 
 <details>
@@ -363,7 +351,6 @@ _Toplu yeniden adlandırma, otomatik organizasyon, akıllı sınıflandırma, do
 _Excel verilerini derinlemesine analiz edin, raporları otomatik olarak güzelleştirin ve içgörüler oluşturun — hepsi AI Agent'lar tarafından desteklenir._
 
 <p align="center">
-  <img src="../../resources/readme-demo-generate-excel.gif" alt="Excel Processing" width="800">
 </p>
 
 <details>
@@ -392,7 +379,6 @@ _Excel verilerini derinlemesine analiz edin, raporları otomatik olarak güzelle
 _Gemini tarafından desteklenen akıllı görüntü oluşturma, düzenleme ve tanıma_
 
 <p align="center">
-  <img src="../../resources/Image_Generation.gif" alt="AI Image Generation" width="800">
 </p>
 
 <details>
@@ -416,7 +402,6 @@ _Gemini tarafından desteklenen akıllı görüntü oluşturma, düzenleme ve ta
 _AI Agent'lar ile profesyonel belgeleri otomatik olarak oluşturun — sunumlar, raporlar ve daha fazlası._
 
 <p align="center">
-  <img src="../../resources/file_generation_preview.png" alt="Document Generation" width="800">
 </p>
 
 <details>
@@ -443,7 +428,6 @@ _AI Agent'lar ile profesyonel belgeleri otomatik olarak oluşturun — sunumlar,
 _Kendi CSS kodunuzla özelleştirin, arayüzünüzü tercihlerinize uygun hale getirin_
 
 <p align="center">
-  <img src="../../resources/css with skin.gif" alt="CSS Customization" width="800">
 </p>
 
 - ✅ **Tamamen Özelleştirilebilir** — CSS kodu aracılığıyla arayüz renklerini, stillerini, düzenini özgürce özelleştirin, özel deneyiminizi oluşturun
@@ -455,7 +439,6 @@ _Kendi CSS kodunuzla özelleştirin, arayüzünüzü tercihlerinize uygun hale g
 _Birden fazla konuşma açın, görevler karışmaz, bağımsız bellek, verimlilik iki katına çıkar_
 
 <p align="center">
-  <img src="../../resources/multichat-side-by-side.gif" alt="Multi-Task Parallel" width="800">
 </p>
 
 - ✅ **Bağımsız Bağlam** — Her konuşma kendi bağlamını ve geçmişini korur
@@ -622,7 +605,6 @@ brew install clonui
 
 <p align="center">
   <a href="https://x.com/CLonUI" target="_blank">
-    <img src="../../resources/contactus-x.png" alt="Contact Us on X" width="600">
   </a>
 </p>
 

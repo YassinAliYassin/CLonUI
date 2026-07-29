@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="../../resources/clonui-banner-1.png" alt="CLonUI - Cowork with AI Agents" width="100%">
 </p>
 
 <p align="center">
@@ -38,7 +37,6 @@
 
 <p align="center">
   <a href="https://x.com/CLonUI/status/2079493379914961069">
-    <img src="../../resources/kimi/contributor-bonus-black-blue.jpg" alt="CLonUI × Kimi Bono para Contribuidores" width="600">
   </a>
 </p>
 
@@ -81,7 +79,6 @@
 | Precio                                      | Gratis / Pago                     | **Gratis y de código abierto**                                                                                                     |
 
 <p align="center">
-  <img src="../../resources/offica-ai BANNER-function.png" alt="CLonUI Cowork Platform" width="800">
 </p>
 
 ---
@@ -96,7 +93,6 @@ CLonUI viene con un motor de Agent AI completo. A diferencia de las herramientas
 - **Asistentes listos para usar** — 21 asistentes profesionales integrados (Cowork, PPT Creator, Morph PPT, Morph PPT 3D, Word Creator, Word Form Creator, Excel Creator, Pitch Deck Creator, Dashboard Creator, Academic Paper Writer, Financial Model Creator y más) listos para usar de inmediato
 
 <p align="center">
-  <img src="../../resources/homepage.png" alt="Built-in Agents" width="800">
 </p>
 
 ---
@@ -108,7 +104,6 @@ Si ya usas Claude Code, Codex, Hermes Agent u OpenClaw, CLonUI los detecta autom
 **Agents compatibles:** Agent integrado (configuración cero) • Claude Code • Codex • Qwen Code • Goose AI • OpenClaw • Augment Code • CodeBuddy • Kimi CLI • OpenCode • Factory Droid • GitHub Copilot • Qoder CLI • Mistral Vibe • Nanobot • Clown CLI (clonrs, el servicio backend en Rust distribuido con CLonUI) • Snow CLI • Hermes Agent • Cursor Agent y más
 
 <p align="center">
-  <img src="../../resources/multi-agent支持openclaw.gif" alt="Multi-Agent Cowork" width="800">
 </p>
 
 - **Detección automática** — reconoce automáticamente las herramientas CLI instaladas
@@ -122,7 +117,6 @@ Si ya usas Claude Code, Codex, Hermes Agent u OpenClaw, CLonUI los detecta autom
 Ejecuta múltiples AI Agents como un equipo organizado: un agente **Leader** recibe tus instrucciones, las divide en subtareas y las delega a agentes **Teammate** a través de un Team MCP Server integrado. Los Teammates se ejecutan en paralelo, comparten resultados a través de un buzón asíncrono y escriben en un tablero de tareas compartido.
 
 <p align="center">
-  <img src="../../resources/CLonUI_team.gif" alt="Team Mode overview" width="800">
 </p>
 
 - **Ejecución paralela multi-agent** — Leader divide las tareas en subtareas y las delega a agentes Teammate que se ejecutan en paralelo; cada Teammate usa su propio modelo a través de ACP (Agent Communication Protocol, la capa de coordinación multi-agent de CLonUI), Gemini o CLonrs
@@ -159,7 +153,6 @@ Otras apps de AI te dan una caja de chat con tu clave API. **CLonUI te da un Cow
 Las mismas capacidades del Agent — lectura/escritura de archivos, búsqueda web, generación de imágenes, uso de herramientas — independientemente del modelo que lo impulse. CLonUI admite **30+ plataformas AI** incluyendo servicios en la nube y despliegues locales.
 
 <p align="center">
-  <img src="../../resources/llm_newapi.png" alt="Multi-Model Support" width="800">
 </p>
 
 <details>
@@ -190,7 +183,6 @@ _Sistema de asistentes extensible con 21 asistentes profesionales integrados y u
 - **Control por conversación** — Un indicador de habilidades en el encabezado del chat muestra las habilidades activas para la conversación actual; busca y excluye habilidades según sea necesario
 
 <p align="center">
-  <img src="../../resources/assitants.png" alt="AI Assistants & Skills Ecosystem" width="800">
 </p>
 
 <details>
@@ -243,7 +235,6 @@ _Tu asistente AI 24/7 — accede a CLonUI desde cualquier dispositivo, en cualqu
 > **Configuración:** CLonUI Settings → WebUI Settings → Channel, configura el Bot Token.
 
 <p align="center">
-  <img src="../../resources/webui-remote.gif" alt="WebUI remote access demo" width="800">
 </p>
 
 <p align="center"><em>Controla y supervisa tu agente en remoto — Claude, Gemini, Codex. Desde el navegador o el móvil, como Claude Code remote.</em></p>
@@ -262,7 +253,6 @@ _Configúralo una vez, el AI Agent se ejecuta automáticamente según el horario
 - **Casos de uso:** agregación de datos programada, generación de informes, organización de archivos, recordatorios
 
 <p align="center">
-  <img src="../../resources/alart-task.png" alt="Scheduled Tasks" width="800">
 </p>
 
 <details>
@@ -310,7 +300,6 @@ _10+ formatos: PDF, Word, Excel, PPT, código, Markdown, imágenes, HTML, Diff �
 - **Historial de versiones** — visualiza y restaura versiones históricas de archivos (basado en Git)
 
 <p align="center">
-  <img src="../../resources/preview.gif" alt="Preview Panel" width="800">
 </p>
 
 <details>
@@ -335,7 +324,6 @@ _10+ formatos: PDF, Word, Excel, PPT, código, Markdown, imágenes, HTML, Diff �
 _Renombrado por lotes, organización automática, clasificación inteligente, fusión de archivos — el Cowork Agent lo maneja por ti._
 
 <p align="center">
-  <img src="../../resources/clonui sort file 2.gif" alt="Smart File Management" width="800">
 </p>
 
 <details>
@@ -363,7 +351,6 @@ _Renombrado por lotes, organización automática, clasificación inteligente, fu
 _Analiza profundamente los datos de Excel, embellece automáticamente los informes y genera insights — todo impulsado por AI Agents._
 
 <p align="center">
-  <img src="../../resources/readme-demo-generate-excel.gif" alt="Excel Processing" width="800">
 </p>
 
 <details>
@@ -392,7 +379,6 @@ _Analiza profundamente los datos de Excel, embellece automáticamente los inform
 _Generación, edición y reconocimiento inteligente de imágenes, impulsado por Gemini_
 
 <p align="center">
-  <img src="../../resources/Image_Generation.gif" alt="AI Image Generation" width="800">
 </p>
 
 <details>
@@ -416,7 +402,6 @@ _Generación, edición y reconocimiento inteligente de imágenes, impulsado por 
 _Genera automáticamente documentos profesionales — presentaciones, informes y más — con AI Agents._
 
 <p align="center">
-  <img src="../../resources/file_generation_preview.png" alt="Document Generation" width="800">
 </p>
 
 <details>
@@ -443,7 +428,6 @@ _Genera automáticamente documentos profesionales — presentaciones, informes y
 _Personaliza con tu propio código CSS, haz que tu interfaz coincida con tus preferencias_
 
 <p align="center">
-  <img src="../../resources/css with skin.gif" alt="CSS Customization" width="800">
 </p>
 
 - ✅ **Totalmente personalizable** — Personaliza libremente colores, estilos y diseño de la interfaz a través de código CSS, crea tu experiencia exclusiva
@@ -455,7 +439,6 @@ _Personaliza con tu propio código CSS, haz que tu interfaz coincida con tus pre
 _Abre múltiples conversaciones, las tareas no se mezclan, memoria independiente, eficiencia doble_
 
 <p align="center">
-  <img src="../../resources/multichat-side-by-side.gif" alt="Multi-Task Parallel" width="800">
 </p>
 
 - ✅ **Contexto independiente** — Cada conversación mantiene su propio contexto e historial
@@ -622,7 +605,6 @@ brew install clonui
 
 <p align="center">
   <a href="https://x.com/CLonUI" target="_blank">
-    <img src="../../resources/contactus-x.png" alt="Contact Us on X" width="600">
   </a>
 </p>
 

@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="../../resources/clonui-banner-1.png" alt="CLonUI - Cowork with AI Agents" width="100%">
 </p>
 
 <p align="center">
@@ -38,7 +37,6 @@
 
 <p align="center">
   <a href="https://github.com/SolidAI/CLonUI/discussions/3640">
-    <img src="../../resources/kimi/contributor-bonus-black-blue.jpg" alt="CLonUI × Kimi 贡献者激励" width="600">
   </a>
 </p>
 
@@ -82,7 +80,6 @@
 | 价格                  | 免费 / 付费        | **免费且开源**                                                                                         |
 
 <p align="center">
-  <img src="../../resources/offica-ai BANNER-function.png" alt="CLonUI Cowork Platform" width="800">
 </p>
 
 ---
@@ -97,7 +94,6 @@ CLonUI 自带完整的 AI Agent。不像其他工具需要你手动安装各种 
 - **现成的专业助手** — 内置 21 个专业助手（Cowork、PPT 生成器、Word 生成器、Word 表单生成器、Excel 生成器、Morph PPT、Morph PPT 3D、Pitch Deck 生成器、仪表板生成器、学术论文写作助手、财务模型生成器等），拿来就能用
 
 <p align="center">
-  <img src="../../resources/homepage.png" alt="Built-in Agents" width="800">
 </p>
 
 ### **办公助手（PPT / Word / Excel）**
@@ -113,10 +109,8 @@ CLonUI 自带完整的 AI Agent。不像其他工具需要你手动安装各种 
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="../../resources/morph-ppt-balanced.gif" alt="Morph PPT — slide-to-slide transitions（由 OfficeCLI 实现）" width="390">
     </td>
     <td align="center" width="50%">
-      <img src="../../resources/readme-demo-assistant-ppt.gif" alt="PPT 助手 — 录屏演示（与 OfficeCLI 联动）" width="390">
     </td>
   </tr>
 </table>
@@ -129,10 +123,8 @@ CLonUI 自带完整的 AI Agent。不像其他工具需要你手动安装各种 
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="../../resources/readme-demo-generate-academic-paper.gif" alt="生成学术论文演示（由 OfficeCLI 实现）" width="390">
     </td>
     <td align="center" width="50%">
-      <img src="../../resources/readme-demo-assistant-write-paper.gif" alt="写论文助手演示（与 OfficeCLI 联动）" width="390">
     </td>
   </tr>
 </table>
@@ -145,10 +137,8 @@ CLonUI 自带完整的 AI Agent。不像其他工具需要你手动安装各种 
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="../../resources/readme-demo-generate-excel.gif" alt="Excel 生成演示（由 OfficeCLI 实现）" width="390">
     </td>
     <td align="center" width="50%">
-      <img src="../../resources/readme-demo-assistant-excel.gif" alt="Excel 助手演示（与 OfficeCLI 联动）" width="390">
     </td>
   </tr>
 </table>
@@ -162,7 +152,6 @@ CLonUI 自带完整的 AI Agent。不像其他工具需要你手动安装各种 
 **支持的 Agent：** 内置 Agent（零配置） • Claude Code • Codex • Qwen Code • Goose AI • OpenClaw • Augment Code • CodeBuddy • Kimi CLI • OpenCode • Factory Droid • GitHub Copilot • Qoder CLI • Mistral Vibe • Nanobot • Clown CLI（clonrs，CLonUI 随附的 Rust 后端服务） • Snow CLI • Hermes Agent • Cursor Agent 等
 
 <p align="center">
-  <img src="../../resources/multi-agent支持openclaw.gif" alt="Multi-Agent Cowork" width="800">
 </p>
 
 - **自动检测** — 自动识别已安装的 CLI 工具
@@ -176,7 +165,6 @@ CLonUI 自带完整的 AI Agent。不像其他工具需要你手动安装各种 
 以团队形式运行多个 AI Agent：**Leader** Agent 接收你的指令，将其分解为子任务，并通过内置 Team MCP Server 委派给 **Teammate** Agent。Teammate 并行执行，通过异步邮箱共享结果，并将进度写入共享任务看板。
 
 <p align="center">
-  <img src="../../resources/CLonUI_team.gif" alt="Team Mode overview" width="800">
 </p>
 
 - **多 Agent 并行执行** — Leader 将任务分解为子任务并委派给并行运行的 Teammate Agent；每个 Teammate 通过 ACP（Agent Communication Protocol，CLonUI 的多 Agent 协调层）、Gemini 或 CLonrs 使用独立模型
@@ -214,7 +202,6 @@ CLonUI 自带完整的 AI Agent。不像其他工具需要你手动安装各种 
 不管用哪个模型，Agent 的能力都一样强大——文件读写、网络搜索、图像生成、工具调用，一个不少。CLonUI 支持 **30+ 个 AI 平台**，云端本地都能用。
 
 <p align="center">
-  <img src="../../resources/llm_newapi.png" alt="Multi-Model Support" width="800">
 </p>
 
 <details>
@@ -245,7 +232,6 @@ _灵活的助手系统，内置 21 个专业助手，支持三层技能体系，
 - **对话级控制** — 聊天头部的技能指示器显示当前对话的活跃技能；可随时搜索和排除技能
 
 <p align="center">
-  <img src="../../resources/assitants.png" alt="AI Assistants & Skills Ecosystem" width="800">
 </p>
 
 <details>
@@ -298,7 +284,6 @@ _你的 24/7 AI 助手 — 手机、平板、电脑，随时随地都能用。_
 > **设置：** CLonUI 设置 → WebUI 设置 → Channel，配置 Bot Token。
 
 <p align="center">
-  <img src="../../resources/webui-remote.gif" alt="WebUI remote access demo" width="800">
 </p>
 
 <p align="center"><em>远程监管你的 Agent — Claude、Gemini、Codex，浏览器或手机即可远程控制与查看，如同 Claude Code remote。</em></p>
@@ -317,7 +302,6 @@ _一次设置，AI Agent 就会按你的计划自动工作 — 真正的 24/7 �
 - **适用场景：** 定时汇总数据、自动生成报告、整理文件、发送提醒
 
 <p align="center">
-  <img src="../../resources/alart-task.png" alt="Scheduled Tasks" width="800">
 </p>
 
 <details>
@@ -365,7 +349,6 @@ _支持 10+ 种格式：PDF、Word、Excel、PPT、代码、Markdown、图像、
 - **版本回溯** — 随时查看和恢复文件的历史版本（基于 Git）
 
 <p align="center">
-  <img src="../../resources/preview.gif" alt="Preview Panel" width="800">
 </p>
 
 <details>
@@ -390,7 +373,6 @@ _支持 10+ 种格式：PDF、Word、Excel、PPT、代码、Markdown、图像、
 _批量重命名、自动整理、智能分类、文件合并 — 这些繁琐的事，交给 Cowork Agent 就行。_
 
 <p align="center">
-  <img src="../../resources/clonui sort file 2.gif" alt="Smart File Management" width="800">
 </p>
 
 <details>
@@ -418,7 +400,6 @@ _批量重命名、自动整理、智能分类、文件合并 — 这些繁琐�
 _深度分析 Excel 数据，自动美化报告，生成洞察 — 这些复杂的数据工作，AI Agent 全包了。_
 
 <p align="center">
-  <img src="../../resources/generate_xlsx.gif" alt="Excel Processing" width="800">
 </p>
 
 <details>
@@ -447,7 +428,6 @@ _深度分析 Excel 数据，自动美化报告，生成洞察 — 这些复杂�
 _想生成图片、编辑图片、识别图片？Gemini 驱动的 AI 图像功能，样样都行_
 
 <p align="center">
-  <img src="../../resources/Image_Generation.gif" alt="AI Image Generation" width="800">
 </p>
 
 <details>
@@ -471,7 +451,6 @@ _想生成图片、编辑图片、识别图片？Gemini 驱动的 AI 图像功�
 _演示文稿、报告、文档 — 这些专业文档，AI Agent 都能自动生成。_
 
 <p align="center">
-  <img src="../../resources/file_generation_preview.png" alt="Document Generation" width="800">
 </p>
 
 <details>
@@ -498,7 +477,6 @@ _演示文稿、报告、文档 — 这些专业文档，AI Agent 都能自动�
 _想怎么改就怎么改，用 CSS 代码打造你的专属界面_
 
 <p align="center">
-  <img src="../../resources/css with skin.gif" alt="CSS Customization" width="800">
 </p>
 
 - ✅ **完全自由定制** — 用 CSS 代码随意调整颜色、样式、布局，打造独一无二的界面
@@ -510,7 +488,6 @@ _想怎么改就怎么改，用 CSS 代码打造你的专属界面_
 _同时开多个对话，任务不会乱，每个都有独立记忆，效率直接翻倍_
 
 <p align="center">
-  <img src="../../resources/multichat-side-by-side.gif" alt="Multi-Task Parallel" width="800">
 </p>
 
 - ✅ **独立上下文** — 每个对话都有自己的上下文和历史，互不干扰
@@ -677,7 +654,6 @@ brew install clonui
 
 <p align="center">
   <a href="https://x.com/CLonUI" target="_blank">
-    <img src="../../resources/contactus-x.png" alt="Contact Us on X" width="600">
   </a>
 </p>
 
@@ -707,7 +683,6 @@ CLonUI 本地开发涉及两个仓库：CLonUI 负责 Electron 前端，CLonCore
 <tr>
 <td width="170" align="center">
   <a href="https://linux.do/" target="_blank">
-    <img src="../../resources/linuxdo.png" alt="LINUX DO" width="150">
   </a>
 </td>
 <td>
@@ -717,7 +692,6 @@ CLonUI 本地开发涉及两个仓库：CLonUI 负责 Electron 前端，CLonCore
 <tr>
 <td width="170" align="center">
   <a href="https://packycode.com" target="_blank">
-    <img src="../../resources/packycode.png" alt="PackyCode" width="150">
   </a>
 </td>
 <td>

@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="../../resources/clonui-banner-1.png" alt="CLonUI - Спільна робота з AI-агентами" width="100%">
 </p>
 
 <p align="center">
@@ -38,7 +37,6 @@
 
 <p align="center">
   <a href="https://x.com/CLonUI/status/2079493379914961069">
-    <img src="../../resources/kimi/contributor-bonus-black-blue.jpg" alt="CLonUI × Kimi Бонус для контриб’юторів" width="600">
   </a>
 </p>
 
@@ -82,7 +80,6 @@
 | Ціна                               | Безкоштовно / Платно      | **Безкоштовно та з відкритим кодом**                                                                                 |
 
 <p align="center">
-  <img src="../../resources/offica-ai BANNER-function.png" alt="CLonUI Cowork Platform" width="800">
 </p>
 
 ---
@@ -97,7 +94,6 @@ CLonUI постачається з повноцінним рушієм AI-аге
 - **Готові до використання асистенти** — 21 вбудований професійний асистент (Cowork, PPT Creator, Word Creator, Word Form Creator, Excel Creator, Morph PPT, Morph PPT 3D, Pitch Deck Creator, Dashboard Creator, Academic Paper Writer, Financial Model Creator та інші)
 
 <p align="center">
-  <img src="../../resources/homepage.png" alt="Вбудовані агенти" width="800">
 </p>
 
 ### **Офісні асистенти — PPT, Word та Excel**
@@ -112,10 +108,8 @@ CLonUI постачається з повноцінним рушієм AI-аге
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="../../resources/morph-ppt-balanced.gif" alt="Morph PPT — переходи між слайдами (OfficeCLI)" width="390">
     </td>
     <td align="center" width="50%">
-      <img src="../../resources/readme-demo-assistant-ppt.gif" alt="Асистент PPT — запис екрану" width="390">
     </td>
   </tr>
 </table>
@@ -128,10 +122,8 @@ CLonUI постачається з повноцінним рушієм AI-аге
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="../../resources/readme-demo-generate-academic-paper.gif" alt="Демо генерації наукової статті" width="390">
     </td>
     <td align="center" width="50%">
-      <img src="../../resources/readme-demo-assistant-write-paper.gif" alt="Демо асистента для написання статей" width="390">
     </td>
   </tr>
 </table>
@@ -144,10 +136,8 @@ CLonUI постачається з повноцінним рушієм AI-аге
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="../../resources/readme-demo-generate-excel.gif" alt="Демо генерації Excel" width="390">
     </td>
     <td align="center" width="50%">
-      <img src="../../resources/readme-demo-assistant-excel.gif" alt="Демо асистента Excel" width="390">
     </td>
   </tr>
 </table>
@@ -161,7 +151,6 @@ CLonUI постачається з повноцінним рушієм AI-аге
 **Підтримувані агенти:** Вбудований агент • Claude Code • Codex • Qwen Code • Goose AI • OpenClaw • Augment Code • CodeBuddy • Kimi CLI • OpenCode • Factory Droid • GitHub Copilot • Qoder CLI • Mistral Vibe • Nanobot • Clown CLI (clonrs, Rust-бекенд-сервіс, що постачається з CLonUI) • Snow CLI • Hermes Agent • Cursor Agent та інші
 
 <p align="center">
-  <img src="../../resources/multi-agent支持openclaw.gif" alt="Мульти-агентний режим" width="800">
 </p>
 
 - **Автовизначення** — автоматично розпізнає встановлені CLI-інструменти
@@ -175,7 +164,6 @@ CLonUI постачається з повноцінним рушієм AI-аге
 Запускайте кілька AI-агентів як організовану команду: агент **Leader** отримує ваші інструкції, ділить їх на підзадачі і делегує агентам **Teammate** через вбудований Team MCP Server. Teammate-агенти виконують завдання паралельно, обмінюються результатами через асинхронну поштову скриньку та записують у спільну дошку завдань.
 
 <p align="center">
-  <img src="../../resources/CLonUI_team.gif" alt="Team Mode overview" width="800">
 </p>
 
 - **Паралельне виконання кількох агентів** — Leader ділить завдання на підзадачі і делегує паралельно працюючим Teammate-агентам; кожен Teammate використовує свою модель через ACP (Agent Communication Protocol, шар координації мульти-агентності CLonUI), Gemini або CLonrs
@@ -212,7 +200,6 @@ CLonUI постачається з повноцінним рушієм AI-аге
 Ті ж самі можливості — читання/запис файлів, веб-пошук, генерація зображень — незалежно від того, яка модель використовується. CLonUI підтримує **30+ AI-платформ**.
 
 <p align="center">
-  <img src="../../resources/llm_newapi.png" alt="Підтримка багатьох моделей" width="800">
 </p>
 
 <details>
@@ -241,7 +228,6 @@ _Система асистентів із 21 вбудованим професі
 - **Контроль для кожної розмови** — індикатор навичок у заголовку чату показує активні навички поточної розмови
 
 <p align="center">
-  <img src="../../resources/assitants.png" alt="Екосистема асистентів та навичок" width="800">
 </p>
 
 <details>
@@ -289,7 +275,6 @@ _Ваш AI-помічник 24/7 — доступ з будь-якого при�
   - **WeCom (企业微信), Slack, Discord** та інші платформи скоро з'являться
 
 <p align="center">
-  <img src="../../resources/webui-remote.gif" alt="Демо віддаленого доступу WebUI" width="800">
 </p>
 
 ---
@@ -306,7 +291,6 @@ _Налаштуйте один раз, і AI-агент працюватиме �
 - **Кейси:** збір даних, генерація звітів, впорядкування файлів, нагадування
 
 <p align="center">
-  <img src="../../resources/alart-task.png" alt="Завдання за розкладом" width="800">
 </p>
 
 <details>
@@ -342,7 +326,6 @@ _Налаштуйте один раз, і AI-агент працюватиме �
 _10+ форматів: PDF, Word, Excel, PPT, код, Markdown, зображення, HTML, Diff — дивіться все без перемикання додатків._
 
 <p align="center">
-  <img src="../../resources/preview.gif" alt="Панель попереднього перегляду" width="800">
 </p>
 
 ---
@@ -352,7 +335,6 @@ _10+ форматів: PDF, Word, Excel, PPT, код, Markdown, зображен
 _Пакетне перейменування, автоматичне впорядкування, розумна класифікація та злиття файлів._
 
 <p align="center">
-  <img src="../../resources/clonui sort file 2.gif" alt="Керування файлами" width="800">
 </p>
 
 ---
@@ -402,7 +384,6 @@ brew install clonui
 
 <p align="center">
   <a href="https://x.com/CLonUI" target="_blank">
-    <img src="../../resources/contactus-x.png" alt="Зв'яжіться з нами в X" width="600">
   </a>
 </p>
 
