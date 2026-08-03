@@ -124,7 +124,7 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Upload tarball artifact
-        uses: actions/upload-artifact@v6
+        uses: actions/upload-artifact@v7
         with:
           name: ${{ inputs.append_commit_hash && format('web-cli-{0}-{1}-{2}', matrix.platform, matrix.arch, steps.commit.outputs.short) || format('web-cli-{0}-{1}', matrix.platform, matrix.arch) }}
           path: |
@@ -169,7 +169,7 @@ jobs:
           chmod +x dist-scripts/install-web.sh
 
       - name: Upload install-web.sh artifact
-        uses: actions/upload-artifact@v6
+        uses: actions/upload-artifact@v7
         with:
           name: ${{ inputs.append_commit_hash && format('install-web-script-{0}', steps.commit.outputs.short) || 'install-web-script' }}
           path: dist-scripts/install-web.sh
