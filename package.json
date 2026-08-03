@@ -201,7 +201,7 @@
     "@types/yauzl": "^2.10.3",
     "@vitest/coverage-v8": "^4.0.18",
     "builder-util": "26.15.0",
-    "cross-env": "^7.0.3",
+    "cross-env": "^10.1.0",
     "dotenv": "^17.2.1",
     "electron": "^37.10.3",
     "electron-builder": "26.15.2",
