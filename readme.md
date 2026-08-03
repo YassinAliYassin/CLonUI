@@ -146,6 +146,60 @@ bun run test
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for the full development guide, architecture overview, and coding conventions.
 
+### Development
+
+```bash
+bun install         # install dependencies (frozen lockfile: bun install --frozen-lockfile)
+bun run dev         # run the desktop app in dev mode
+bun run webui       # run the web UI host
+bun run lint        # oxlint
+bun run format:check  # oxfmt formatting gate
+bun run typecheck   # tsc --noEmit (via just push)
+bun run test        # vitest unit suite
+bun run test:e2e    # Playwright e2e
+```
+
+Use `just push` before pushing (runs lint → format-check → typecheck → test → push).
+`prek` replicates the exact CI pipeline locally. See `justfile` and
+[`.github/workflows/README.md`](.github/workflows/README.md).
+
+### Environment variables
+
+Configuration is primarily managed through the app UI and local config; select
+environment variables are honored for specific modes:
+
+| Variable | Purpose |
+|----------|---------|
+| `CLONUI_MULTI_INSTANCE` | `1` enables multi-instance dev mode |
+| `NODE_ENV` | `production` for `webui:prod` prod-mode builds |
+| Provider / MCP keys | API keys are stored via the app's local database; see `SECURITY.md` for how secrets are handled |
+
+### Repository layout
+
+```
+packages/
+  desktop/        Electron desktop application
+    src/process/    Main process (no DOM APIs)
+    src/renderer/   Renderer (no Node.js APIs)
+    src/preload/    IPC bridge (only boundary between the two)
+  web-host/       Web rendering host (WebUI / remote UI)
+  web-cli/        clonui-web CLI for headless / server use
+  shared-scripts/ Shared build & release scripts
+mobile/           Mobile companion (if enabled)
+scripts/          Dev, build & release helpers
+docs/             Architecture, contributing and guides
+tests/            Unit, integration, contract, e2e and bench tests
+```
+
+### Roadmap
+
+Planned and ongoing work (see `docs/` and the issue tracker for details):
+
+- **Team mode & multi-agent collaboration** — coordinated multi-agent workflows.
+- **Web CLI / headless & remote UI** — server-side usage beyond the desktop app.
+- **Mobile companion** — broaden the surface beyond macOS/Windows/Linux installers.
+- **Security hardening** — trust boundaries with MCP/remote agents and secrets handling.
+
 ---
 
 ## 📦 What's Inside
