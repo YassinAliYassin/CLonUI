@@ -11,6 +11,8 @@ See [docs/contributing/development.md](docs/contributing/development.md) for env
 - [Rust stable + Cargo](https://rustup.rs) for the local CLonCore backend
 - [prek](https://github.com/j178/prek) (`npm install -g @j178/prek`)
 
+If you are contributing from your own fork, follow the [fork contribution workflow](docs/contributing/fork-workflow.md) for setting up remotes, creating a focused branch, running checks, and opening a pull request.
+
 ## Rule 1: Atomic PRs
 
 Each pull request must contain **exactly one feature or one bug fix** that cannot be further decomposed.
@@ -47,11 +49,11 @@ Use one of these types:
 | `perf`     | Performance improvement  | Visible              |
 | `refactor` | Code restructuring       | Visible              |
 | `docs`     | Documentation            | Visible              |
-| `style`    | Formatting or styles     | Hidden               |
-| `chore`    | Maintenance work         | Hidden               |
-| `test`     | Tests                    | Hidden               |
-| `ci`       | CI configuration         | Hidden               |
-| `build`    | Build system             | Hidden               |
+| `style`   | Formatting or styles     | Hidden               |
+| `chore`   | Maintenance work         | Hidden               |
+| `test`    | Tests                    | Hidden               |
+| `ci`      | CI configuration         | Hidden               |
+| `build`   | Build system             | Hidden               |
 
 Examples:
 
